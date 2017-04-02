@@ -1,3 +1,19 @@
 // Place all the styles related to the pages controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+.project-image{
+  margin: 0 auto;
+  display: block;
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+  // border: 0;
+  border: 1px solid black;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 10px 10px 10px 10px;
+}
+.portfolio-container{
+  font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
